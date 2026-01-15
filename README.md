@@ -147,6 +147,16 @@ The following inventors contributed to the development of this patented acoustic
 
 ---
 
+## 📜 Patent Information
+
+* **Patent Application Number:** **(Under filing)**
+* **Title:** *Acoustic Spectroscopy for non-destructible analysis*
+* **Jurisdiction:** India
+* **Filed Under:** The Patents Act, 1970
+* **Applicant:** Symbiosis International (Deemed University)
+
+---
+
 ## 🤝 Collaboration
 
 Researchers, designers, and academic collaborators interested in **non‑destructive testing, agricultural automation, and acoustic sensing systems** are welcome to connect for research‑oriented discussions.
