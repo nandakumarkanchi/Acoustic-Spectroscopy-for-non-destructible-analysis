@@ -33,17 +33,21 @@ The invention presents a **non‑destructive, low‑cost acoustic spectroscopy s
 
 ```
 ├── Model/
-│   └── acoustic_spectroscopy_design.f3d   # Fusion 360 mechanical design file
+│   └── acoustic_spectroscopy_design.f3d
 │
 ├── figures/
-│   ├── figure_1.png   # Fusion 360 isometric view of the prototype
-│   ├── figure_2.png   # Side view highlighting oscillation mechanism
-│   ├── figure_3.png   # Side view showing load cell integration
-│   ├── figure_4.png   # Hardware working methodology (block diagram)
-│   ├── figure_5.png   # Physical real‑world prototype
-│   └── figure_6.png   # Internal arrangement of the prototype
+│   ├── figure_1.png
+│   ├── figure_2.png
+│   ├── figure_3.png
+│   ├── figure_4.png
+│   ├── figure_5.png
+│   └── figure_6.png
+│
+├── Working_Animation/
+│   └── Ultrasonic_spectrometer.avi
 │
 └── README.md
+
 ```
 
 ---
