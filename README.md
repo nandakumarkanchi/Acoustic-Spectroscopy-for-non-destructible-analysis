@@ -153,7 +153,7 @@ The following inventors contributed to the development of this patented acoustic
 
 ## 📜 Patent Information
 
-* **Patent Application Number:** **(Under filing)**
+* **Patent Application Number:** **IN 202521121449 A**
 * **Title:** *Acoustic Spectroscopy for non-destructible analysis*
 * **Jurisdiction:** India
 * **Filed Under:** The Patents Act, 1970
